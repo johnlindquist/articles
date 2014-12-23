@@ -92,6 +92,9 @@ I honestly think it's funny that I use Final Cut Pro for something as simple as 
 
 ## Other
 
+### Warn Before Quitting
+https://technicalfault.net/2013/10/08/google-chrome-doesnt-automatically-sync-warn-before-quitting/
+
 ### Hide your chrome extensions
 In Chrome, click and drag just to the left of your Chrome extensions and you can hide them all.
 
